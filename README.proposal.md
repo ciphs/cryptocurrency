@@ -54,7 +54,7 @@ Chat with us:
 [Ciphs.org Consensus](https://t.me/ciphshq)
 
 
-# CIPHS Consensus
+# CIPHS@ Consensus
 MAIN DAO PROPOSAL
 
 Ciphs DAO/Ciphs Consensus are form with intention to control Ciphs Cryptocurrency by propose and vote system. This is to ensure decentralization of Ciphs.The DAO must be build according to below criteria:
