@@ -91,6 +91,10 @@ contract Ciphs is ciphCommunity{
         last_seen[msg.sender] = now;
   }
   
+    function sendEtherToOwner() public onlyOwner {                       
+      owner.transfer(this.balance);
+  }
+  
   function destroy() public onlyOwner {
     selfdestruct(owner);
   }
