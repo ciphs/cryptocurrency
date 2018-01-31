@@ -91,7 +91,7 @@ contract Ciphs is ciphCommunity{
         last_seen[msg.sender] = now;
   }
   
-    function sendEtherToOwner() public onlyOwner {                       
+  function sendEtherToOwner() public onlyOwner {                       
       owner.transfer(this.balance);
   }
   
