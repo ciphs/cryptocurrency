@@ -2,9 +2,15 @@
   <img src="https://github.com/ciphs/cryptocurrency/blob/document/CIPHS_150x150.png?raw=true" alt="CIPHS©"/>
 </p>
 
-# CIPHS© - Cyptocurrency InterPayment HyperSystem
+<h1 align="center">
+CIPHS©
+</h1>
+<h2 align="center">
+Cyptocurrency InterPayment HyperSystem
+</h2>
+
 ## MOTIVATION
-Decentralization of financial technology is crucial when it comes to account vulnerability and incompatibility. While CIPHS were develop to address this particular issue, taking advantage of Ethereum blockchain to enpower a well Govern Decentralized Cryptocurrency to be use widely by CIPHS Community with many great features [as propose on 1st proposal](https://github.com/ciphs/cryptocurrency/blob/master/README.proposal.md).
+Decentralization of financial technology is crucial when it comes to securing account from attacker. While CIPHS were develop to address this particular issue, taking advantage of Ethereum blockchain to enpower a well Govern Decentralized Cryptocurrency widely adopt by CIPHS Community. CIPHS creation [as propose on 1st proposal](https://github.com/ciphs/cryptocurrency/blob/master/README.proposal.md) with guideline to ensure safe decentralize payment system.
 
 #### CONTRACT ADDRESS (ciphs smart contract)
 [0xa4ff5ce0556f9ff0797ae525ec5ba9b723878a3e](https://etherscan.io/address/0xa4ff5ce0556f9ff0797ae525ec5ba9b723878a3e)
