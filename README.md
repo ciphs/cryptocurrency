@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/ciphs/cryptocurrency/blob/document/CIPHS_150x150.png?raw=true" alt="CIPHS©"/>
 </p>
+
 # CIPHS© - Cyptocurrency InterPayment HyperSystem
 ## MOTIVATION
 Decentralization of financial technology is crucial when it comes to account vulnerability and incompatibility. While CIPHS were develop to address this particular issue, taking advantage of Ethereum blockchain to enpower a well Govern Decentralized Cryptocurrency to be use widely by CIPHS Community with many great features [as propose on 1st proposal](https://github.com/ciphs/cryptocurrency/blob/master/README.proposal.md).
