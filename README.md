@@ -25,23 +25,23 @@ Any wallet compatible with erc20 token. However, CIPHS is still in early days, s
 #### On MOBILE
 [Coinomi](https://coinomi.com/), [Etherwallet](https://play.google.com/store/apps/details?id=org.vikulin.etherwallet&hl=en&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Detherwallet+android&pcampaignid=APPU_1_Wy1zWuSAAcSx0ATkh4u4BA)
 
-# CIPHS COMMUNITY, GOVERNANCE & CONSENSUS
-## INVESTMENT
+# CIPHS© - Community, Governance & Consensus
+#### INVESTMENT
 CIPHS Smart Contract will automatically convert Ether to CIPHS and deliver CIPHS to Investor address. Directly send Ether to Contract Address [0xa4ff5ce0556f9ff0797ae525ec5ba9b723878a3e](https://etherscan.io/address/0xa4ff5ce0556f9ff0797ae525ec5ba9b723878a3e) from erc20 compatible wallet. (do not send ether from your wallet on exchange)
 
-## CENTRAL MINT
+#### CENTRAL MINT
 Community may propose addtional release of CIPHS into circulation. 1 Million of new CIPHS will be release per proposal once voting has been made and achieve 80% agreement or 7 days. New mint CIPHS will be release to Investor wallet upon succesful release of CIPHS.
 
-## BANNING SYSTEM
+#### BANNING SYSTEM
 Will be use upon attack on account related to CIPHS. An anti-crook system to protect user funds from hackers and market manipulator.
 
-## DEV FOUNDATION
+#### DEV FOUNDATION
 Active Deloper commission allocated by Ciphs Community. Every successful code improvement proposal will be paid in CIPHS.
 
-## EXCHANGE
+#### EXCHANGE
 Coming Soon
 
-## CONTRIBUTION
+#### CONTRIBUTE
 Coming Soon
 
 CIPHS© 2017-2018 (CIPHS.ORG)
