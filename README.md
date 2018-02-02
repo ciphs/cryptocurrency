@@ -6,11 +6,11 @@
 CIPHS©
 </h1>
 <h2 align="center">
-Cyptocurrency InterPayment HyperSystem
+Cyptocurrency InterPayment HedgeSystem
 </h2>
 
 ## MOTIVATION
-Decentralization of financial technology is crucial when it comes to securing account from attacker. While CIPHS were develop to address this particular issue, taking advantage of Ethereum blockchain to enpower a well Govern Decentralized Cryptocurrency widely adopt by CIPHS Community. CIPHS creation [as propose on 1st proposal](https://github.com/ciphs/cryptocurrency/blob/master/README.proposal.md) with guideline to ensure safe decentralize payment system.
+CIPHS is an experimental Autonomous Decentralize Cryptocurrency with unique function to be use for integration with other valuable projects regardless of complex or simple implemention. Taking advantage of the Ethereum Blockchain, CIPHS is ERC20/23 Token based backed by Community. CIPHS were invented to acted as cryptocurrency with underlying function such as tracking, voting, investing, burning and banning. CIPHS is a cash currency, but in digital hybridization way. For everyone. CIPHS creation [as propose on 1st proposal](https://github.com/ciphs/cryptocurrency/blob/master/README.proposal.md) with guideline to ensure safe decentralize payment system.
 
 #### CONTRACT ADDRESS (ciphs smart contract)
 [0xa4ff5ce0556f9ff0797ae525ec5ba9b723878a3e](https://etherscan.io/address/0xa4ff5ce0556f9ff0797ae525ec5ba9b723878a3e)
