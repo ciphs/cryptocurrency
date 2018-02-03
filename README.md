@@ -6,7 +6,7 @@
 CIPHS©
 </h1>
 <h2 align="center">
-Cyptocurrency InterPayment HedgeSystem
+Cyptocurrency IntelPayment HedgeSystem
 </h2>
 
 ## MOTIVATION
