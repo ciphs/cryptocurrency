@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ciphs/cryptocurrency/blob/document/CIPHS_150x150.png?raw=true" alt="CIPHS©"/>
+  <img src="https://github.com/ciphs/website/blob/master/image/CIPHS_150x150.png?raw=true" alt="CIPHS©"/>
 </p>
 
 <h1 align="center">
