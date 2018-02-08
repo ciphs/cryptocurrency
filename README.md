@@ -28,24 +28,25 @@ CIPHS is an open source cryptocurrency payment system based on Ethereum Blockcha
 [Etherscan.io](https://etherscan.io/address/0xa4ff5ce0556f9ff0797ae525ec5ba9b723878a3e)
 
 ## WALLETs
-Any wallet compatible with erc20 token. However, CIPHS is still in early days, some wallet need to manually add the contract address and paste ABI code obtain from [0xa4ff5ce0556f9ff0797ae525ec5ba9b723878a3e](https://etherscan.io/address/0xa4ff5ce0556f9ff0797ae525ec5ba9b723878a3e). To name a few:
+This is non official CIPHS wallet, any issue regarding wallet must be address to wallets developer. CIPHS do not held responsible  on any issue regarding 3rd party wallet. Any wallet compatible with erc20 token may be use to store and use CIPHS. However, CIPHS is still in early days, some wallet will need to manually add the contract address and paste ABI code obtain from [0xa4ff5ce0556f9ff0797ae525ec5ba9b723878a3e](https://etherscan.io/address/0xa4ff5ce0556f9ff0797ae525ec5ba9b723878a3e). To name a few:
 #### On PC/NOTEBOOK
 [Metamask](https://metamask.io/) + [Myetherwallet](https://www.myetherwallet.com/)
 #### On MOBILE
 <p align="left">
 <a href="https://eidoo.io/app/">
-EIDOO♥Recomended,
+EIDOO,*fully compatible, recommended
 </a>
-[Coinomi](https://coinomi.com/), [Etherwallet](https://play.google.com/store/apps/details?id=org.vikulin.etherwallet&hl=en&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Detherwallet+android&pcampaignid=APPU_1_Wy1zWuSAAcSx0ATkh4u4BA)
+ 
+[Etherwallet](https://play.google.com/store/apps/details?id=org.vikulin.etherwallet&hl=en&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Detherwallet+android&pcampaignid=APPU_1_Wy1zWuSAAcSx0ATkh4u4BA), [Coinomi](https://coinomi.com/)
 
 # CIPHS© Community
 #### OBTAINING CIPHS
 CIPHS Smart Contract will automatically convert Ether to CIPHS and deliver CIPHS to contributor address. Directly send Ether to Contract Address [0xa4ff5ce0556f9ff0797ae525ec5ba9b723878a3e](https://etherscan.io/address/0xa4ff5ce0556f9ff0797ae525ec5ba9b723878a3e) from erc20 compatible wallet. (do not send ether from your wallet on exchange)
 
-#### CENTRAL MINTER
+#### MERITOCRACY MINTER
 Community may propose addtional release of CIPHS into circulation. 1 Million of new CIPHS will be release per proposal once voting has been made and achieve 80% agreement or 7 days. New mint CIPHS will be release to Contributor wallet upon succesful release of new CIPHS into circulation.
 
-#### ACCOUNT BANNING
+#### MERITOCRACY BANNING
 Will be use upon attack on CIPHS account. An anti-crook system to protect user funds from hackers, account hijacking, market manipulation or any related digital crime.
 
 #### DEVELOPMENT FOUNDATION
