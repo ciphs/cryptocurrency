@@ -32,9 +32,9 @@ Any wallet compatible with erc20 token. However, CIPHS is still in early days, s
 #### On PC/NOTEBOOK
 [Metamask](https://metamask.io/) + [Myetherwallet](https://www.myetherwallet.com/)
 #### On MOBILE
-[<p align="left">
+<p align="left">
 <a href="https://eidoo.io/app/">
-EIDOO♥Recomended
+EIDOO♥Recomended,
 </a>
 [Coinomi](https://coinomi.com/), [Etherwallet](https://play.google.com/store/apps/details?id=org.vikulin.etherwallet&hl=en&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Detherwallet+android&pcampaignid=APPU_1_Wy1zWuSAAcSx0ATkh4u4BA)
 
