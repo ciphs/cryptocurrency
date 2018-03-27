@@ -10,7 +10,7 @@ Cyptocurrency IntelPayment HyperSystem
 </h2>
 
 ## DEVELOPMENT as ASSET
-©IPHS is an open source cryptocurrency payment system based on ERC20/223 Ethereum Blockchain. Coded with heart for development and decentralization of a currency that value the Community that adopt ©IPHS. Wonder how to start? Its easy to obtain ©IPHS and start ciphing! Digitally enter yourself to ©IPHS Community. ©IPHS creation [as propose on 1st proposal](https://github.com/ciphs/cryptocurrency/blob/master/README.proposal.md) with guideline to ensured safest decentralize payment system.
+CIPHS is an open source cryptocurrency payment system based on ERC20/223 Ethereum Blockchain. Coded with heart for development and decentralization of a currency that value the Community that adopt ©IPHS. Wonder how to start? Its easy to obtain ©IPHS and start ciphing! Digitally enter yourself to ©IPHS Community. ©IPHS creation [as propose on 1st proposal](https://github.com/ciphs/cryptocurrency/blob/master/README.proposal.md) with guideline to ensured safest decentralize payment system.
 
 #### CONTRACT ADDRESS (©IPHS Smart Contract)
 [0xa4ff5ce0556f9ff0797ae525ec5ba9b723878a3e](https://etherscan.io/address/0xa4ff5ce0556f9ff0797ae525ec5ba9b723878a3e)
