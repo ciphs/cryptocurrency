@@ -1,7 +1,10 @@
-We have move to new repo prior to CIP#3
+<h2 align="center">We have move to new repo prior to CIP#3
 https://github.com/ciphscoin/ciphscoin
+</h2>
+<h3 align="center">
+This repo has been archived for public reference
+</h3>
 
-This repo will be archive for public reference
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ciphs/website/master/img/ciphs.png" alt="CIPHS©"/>
