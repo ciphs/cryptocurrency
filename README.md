@@ -2,8 +2,8 @@
 <h2 align="center">https://github.com/ciphscoin/ciphscoin
 </h2>
 <h3 align="center">
-CIPHS (erc20) are no longer supported. Please check CIP#2 detail on how to claim xCIPHS
-https://github.com/ciphs/cips/blob/master/CIP%232%20Erc20%20to%20xCIPHS
+CIPHS (erc20) are no longer supported. Please check CIP#2 detail on how to claim xCIPHS</h3>
+<h3 align="center">https://github.com/ciphs/cips/blob/master/CIP%232%20Erc20%20to%20xCIPHS
 </h3>
 <h3 align="center">
 This repo has been archived for public reference
